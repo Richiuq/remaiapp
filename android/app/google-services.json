@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434597723467",
+    "firebase_url": "https://remapp-b5711-default-rtdb.firebaseio.com",
+    "project_id": "remapp-b5711",
+    "storage_bucket": "remapp-b5711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434597723467:android:59f1dfd0ea8eb5ebfbfcce",
+        "android_client_info": {
+          "package_name": "com.listen.remaiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434597723467-k90abtlb9ivhafp0puj7p8bu9f6430vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWh8MnWWeYbtRYH-XwqIFbKl2D3wNJfPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434597723467-k90abtlb9ivhafp0puj7p8bu9f6430vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

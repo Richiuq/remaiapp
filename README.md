@@ -1,21 +1,5 @@
 # remaiapp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-# remaiapp
 /*proyecto de sostenibilidad rem
 Resumen:
 Para una experiencia óptima, inicia sesión con la cuenta de Google (riuqapp@gmail.com) o utiliza el usuario "donaanderson@gmail.com" con contraseña "123456". En la pantalla "Home", explora el mapa de ofertas cercanas y prueba a crear tanto una "Oferta" (sube una imagen de un material sobrante para que Gemini AI lo identifique) como una "Solicitud" (especifica el material y la cantidad que necesitas). Gemini AI te sorprenderá encontrando coincidencias ("Match") entre ofertas y solicitudes. Revisa el "Historial" para ver tus interacciones y finaliza o cancela un "Match" si lo deseas. No olvides que la magia de REM reside en su capacidad de analizar imágenes y buscar las mejores coincidencias gracias a Gemini AI. ¡Disfruta probando REM y descubre cómo puede revolucionar la reutilización de materiales!
